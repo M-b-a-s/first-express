@@ -1,0 +1,23 @@
+{
+  "name": "first-express",
+  "version": "1.0.0",
+  "description": "getting started with express web framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-b-a-s/first-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M-b-a-s/first-express/issues"
+  },
+  "homepage": "https://github.com/M-b-a-s/first-express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
